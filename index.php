@@ -10,8 +10,6 @@
     <link rel="apple-touch-icon" sizes="180x180" href="favicon.png">
     <link rel="icon" type="image/png" href="favicon.png" sizes="32x32">
     <link rel="icon" type="image/png" href="favicon.png" sizes="16x16">
-    <link rel="manifest" href="https://yohoho.cc/icons/manifest.json">
-    <link rel="mask-icon" href="https://yohoho.cc/icons/safari-pinned-tab.svg">
     <meta name="apple-mobile-web-app-title" content="Фильмы онлайн">
     <meta name="application-name" content="Фильмы онлайн">
     <meta name="theme-color" content="#2a3440">
@@ -56,18 +54,7 @@
 
 <footer class="footer">
     <div class="container">
-        <p class="text-muted"><span id="count">335 201</span> фильмов и сериалов.  <!--<a href="//www.videeo.ru/" target="_blank"><span style="margin-left:20px">Фильмы онлайн</span></a>  <a href="//www.gutaref.ru/" target="_blank"><span style="margin-left:20px">Русские фильмы</span></a> -->  <!--LiveInternet counter--><script type="text/javascript">
-document.write('<a style="float: right;" href="//www.liveinternet.ru/click" '+
-'target="_blank"><img src="//counter.yadro.ru/hit?t26.5;r'+
-escape(document.referrer)+((typeof(screen)=='undefined')?'':
-';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
-screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
-';h'+escape(document.title.substring(0,150))+';'+Math.random()+
-'" alt="" title="LiveInternet: показано число посетителей за'+
-' сегодня" '+
-'border="0" width="88" height="15"><\/a>')
-</script><!--/LiveInternet-->
-</p>
+        <p class="text-muted"><span id="count">335 201</span> фильмов и сериалов.  <!--<a href="//www.videeo.ru/" target="_blank"><span style="margin-left:20px">Фильмы онлайн</span></a>  <a href="//www.gutaref.ru/" target="_blank"><span style="margin-left:20px">Русские фильмы</span></a> --></p>
 		
     </div>
 </footer>
