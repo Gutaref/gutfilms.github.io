@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Фильмы онлайн, смотреть сериалы бесплатно онлайн в отличном качестве</title>
+    <meta name="description" content="Лучший кино портал с фильмами онлайн. Теперь все фильмы онлайн, а так же в хорошем качестве! Лучшие фильмы можно смотреть онлайн на нашем сайте в отличном FULL HD качестве.">
+    <meta name="keywords" content="Фильмы онлайн, Смотреть бесплатно онлайн, Фильмы бесплатно смотреть, Сериалы онлайн, Сериалы бесплатно смотреть, В отличном качестве, Сериалы смотреть, Мультфильмы онлайн смотреть, Аниме смотреть бесплатно,">
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon.png">
+    <link rel="icon" type="image/png" href="favicon.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="favicon.png" sizes="16x16">
+    <link rel="manifest" href="https://yohoho.cc/icons/manifest.json">
+    <link rel="mask-icon" href="https://yohoho.cc/icons/safari-pinned-tab.svg">
+    <meta name="apple-mobile-web-app-title" content="Фильмы онлайн">
+    <meta name="application-name" content="Фильмы онлайн">
+    <meta name="theme-color" content="#2a3440">
+
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+
+    <style>
+        .index,.contact,.webmaster,body{font-family:Neucha,sans-serif;color:#fff;margin:50px auto 60px;font-size:14px}.index,.play{overflow:hidden}.online{overflow-x:hidden}.play,.play iframe,.play .col-xs-12{width:100%}.play,.play iframe,.play .col-xs-12,.online,.online iframe,.online .col-xs-12,.online .col-sm-6,.online .col-lg-4,.torrent{margin:0;padding:0;border:0}a{text-decoration:none;outline:none}a .disabled{pointer-events:none;cursor:default}.navbar{z-index:3;border:0}.navbar-inverse{background:none}.navbar-inverse .navbar-brand{font-weight:700;text-shadow:1px 1px 2px #000,0 0 1em #5bb8cc;font-size:20px}.navbar-inverse .navbar-brand:first-letter{text-transform:uppercase}.navbar-inverse .navbar-toggle:focus,.navbar-inverse .navbar-toggle:hover{background-color:#232c36}.footer{z-index:3;position:absolute;bottom:0;width:100%;height:50px}.container .text-muted{margin:15px 0}.container .text-muted span{color:#ccc}.index-background{position:absolute;z-index:2;top:0;left:0;width:100%;height:100%;background:#2A3440;opacity:.6}.index-seo{color:#999;text-align:justify}.search-line{z-index:3;position:absolute!important;left:50%;top:40%;margin-left:-325px!important;margin-top:-100px!important;width:650px}.search-line .brand{color:#fff;font-size:70px;font-weight:700;margin:0 auto;text-align:center;text-shadow:1px 1px 2px #000,0 0 1em #5bb8cc}.search-line .brand:first-letter{text-transform:uppercase}.search-line .form{margin:20px auto;width:100%;text-align:center}.search-line .form input,.moderator input,.moderator textarea,.movie-soc textarea{color:#fff;background:#27313e;border:2px #2f3a46 solid;border-radius:5px;padding:15px;margin:30px auto 0;font-size:16px}.search-line input:hover,.moderator input:hover,.moderator textarea:hover,.movie-soc textarea:hover{border:2px #27313e solid;background:#2f3a46}a{color:#fff}a:hover{color:#fff;text-decoration:none;outline:none}a:focus{color:#ccc;text-decoration:none;outline:none}.player .buttons{position:absolute;bottom:0;left:0;margin:0 8px 8px;z-index:1;opacity:.6}.player .buttons:hover{opacity:.9}.player .title{margin:7px 10px 0}.player .translate,.player .seasons{margin:0 10px}.btn{border-radius:0!important;background:rgba(0,0,0,0.4)!important;padding:6px 0!important;overflow:hidden}.btn-group-justified .btn-group{padding:2px!important}@media only screen and (max-width: 768px){.footer,.navbar,.index-seo{display:none}.search-line{left:0;top:0;margin:0!important;width:100%}}::-webkit-input-placeholder{color:#999}::-moz-placeholder{color:#999}:-ms-input-placeholder{color:#999}:-moz-placeholder{color:#999}
+    </style>
+</head>
+<body style="background:url(transfor.jpg)center top fixed no-repeat;" class="index">
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">НА ГЛАВНУЮ</a>  <a title="Все плееры для киносайта бесплатно" class="navbar-brand" href="https://yohoho.cc/webmaster.html" target="_blank">YOHOHO</a>
+        </div>
+    </div>
+</nav>
+
+<div class="index-background"></div>
+
+<div class="search-line">
+    <div id="yohoho" data-player="videocdn,hdvb,ustore,kodik,collaps,,bazon,alloha,pleer,trailer" data-videocdn="4Q8V7FzgWJS62YwnGusB1925QOvQv3GQ" data-hdvb="bd01ed6c572f14ebbd788da5634425dc:gutfilms.ru" data-ustore="de0aac012b445a9c1ea8e9d0e15e3d13" data-kodik="ce57dca034188ed590eb5747dc225356" data-tv="1" data-resize="1">
+        <div class="brand">Фильмы онлайн</div>
+        <div class="form">
+            <input type="text" placeholder="Название фильма / ID КиноПоиск" id="search-title" name="title" style="width: 270px">
+            <input type="button" id="search" value="Найти">
+        </div>
+    </div>
+</div>
+
+<script src="https://yohoho.cc/yo.js"></script>
+
+<div class="index-seo">
+    
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <p class="text-muted"><span id="count">335 201</span> фильмов и сериалов.  <!--<a href="//www.videeo.ru/" target="_blank"><span style="margin-left:20px">Фильмы онлайн</span></a>  <a href="//www.gutaref.ru/" target="_blank"><span style="margin-left:20px">Русские фильмы</span></a> -->  <!--LiveInternet counter--><script type="text/javascript">
+document.write('<a style="float: right;" href="//www.liveinternet.ru/click" '+
+'target="_blank"><img src="//counter.yadro.ru/hit?t26.5;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';h'+escape(document.title.substring(0,150))+';'+Math.random()+
+'" alt="" title="LiveInternet: показано число посетителей за'+
+' сегодня" '+
+'border="0" width="88" height="15"><\/a>')
+</script><!--/LiveInternet-->
+</p>
+		
+    </div>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js"></script>
+<script>
+    WebFont.load({
+        google: {
+            families: ['Neucha']
+        }
+    });
+</script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var seo = document.querySelector('.index-seo').innerText;
+        var items = seo.split(' ');
+
+        (function flashWord() {
+            var i = 0;
+            function run(item) {
+                var t = setTimeout(function () {
+                    clearTimeout(t);
+                    document.querySelector('.index-seo').innerHTML = seo.replace(new RegExp(' ' + item + ' ', 'g'), ' <span style="color: #fff">' + item + '</span> ');
+                    if (items.length) {
+                        i = getRandom(0, items.length - 1);
+                        run(items[i].replace(/[^A-Za-zА-Яа-яёЁ0-9]/gim, ''));
+                    }
+                }, 100);
+            }
+            function getRandom(min, max) {
+                min = Math.ceil(min);
+                max = Math.floor(max);
+                return Math.floor(Math.random() * (max - min + 1)) + min;
+            }
+            run(items[i]);
+        })();
+
+        (function countMovies() {
+            var date = new Date();
+            var year = date.getUTCFullYear();
+            var month = date.getUTCMonth() + 1;
+            var day = date.getUTCDate();
+            var hours = date.getUTCHours();
+            var minutes = date.getUTCMinutes();
+            var seconds = date.getUTCSeconds();
+            var total = ((year - 2014) * 121680) + (month * 10140) + (day * 338) + (hours * 14) + minutes + seconds;
+            document.querySelector('#count').innerHTML = (total + '').replace(/([0-9]{3})([0-9]{3})/, '$1 $2');
+            setInterval(function () {
+                total += Math.floor(Math.random() * 3);
+                document.querySelector('#count').innerHTML = (total + '').replace(/([0-9]{3})([0-9]{3})/, '$1 $2');
+            }, 1000);
+        })();
+
+        var search = document.querySelector('#search');
+        var title = document.querySelector('#search-title');
+
+        if (window.location.hash) {
+            var hash = window.location.hash.substring(1);
+            if (title && hash) {
+                title.value = decodeURIComponent(hash);
+                parse();
+            }
+        }
+
+        if (search) {
+            search.addEventListener('click', function () {
+                return parse();
+            });
+        }
+
+        if (title) {
+            title.addEventListener('keyup', function (event) {
+                event.preventDefault();
+                if (event.keyCode === 13) {
+                    return parse();
+                }
+            });
+        }
+
+        function parse() {
+            var yohoho = document.querySelector('#yohoho');
+            if (title && title.value && yohoho) {
+                if (/kinopoisk\.ru/i.test(title.value)) {
+                    var exec = /(film\/|movie\/).*?([0-9]{3,7})\//gi.exec(title.value);
+                    if (exec && exec[2]) {
+                        yohoho.dataset.kinopoisk = exec[2];
+                        if (window.location.hostname === 'yohoho.cc') {
+                            window.location.href = 'https://4h0y.gitlab.io/#' + yohoho.dataset.kinopoisk;
+                            return;
+                        }
+                        window.location.hash = '#' + yohoho.dataset.kinopoisk;
+                        document.title = 'КиноПоиск: ' + yohoho.dataset.kinopoisk;
+                    }
+                } else if (/^\d+$/.test(title.value)) {
+                    yohoho.dataset.kinopoisk = title.value;
+                    if (window.location.hostname === 'yohoho.cc') {
+                        window.location.href = 'https://4h0y.gitlab.io/#' + yohoho.dataset.kinopoisk;
+                        return;
+                    }
+                    window.location.hash = '#' + yohoho.dataset.kinopoisk;
+                    document.title = 'КиноПоиск: ' + yohoho.dataset.kinopoisk;
+                } else {
+                    yohoho.dataset.title = encodeURIComponent(title.value);
+                    if (window.location.hostname === 'yohoho.cc') {
+                        window.location.href = 'https://4h0y.bitbucket.io/#' + yohoho.dataset.title;
+                        return;
+                    }
+                    window.location.hash = '#' + yohoho.dataset.title;
+                    document.title = title.value;
+                }
+                items = [];
+                return yo();
+            }
+        }
+    });
+</script>
+
+</body>
+</html>
